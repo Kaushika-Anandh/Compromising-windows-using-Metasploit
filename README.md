@@ -65,7 +65,7 @@ Post Exploitation The target is now owned. Following are meterpreter commands fo
 ![](14.png)
 ![](15.png)
 
-keyscan_dump Shows the keystrokes captured so far
+keyscan_dump Shows the keystrokes captured so far.
 
 ![](16.png)
 
